@@ -13,6 +13,8 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 5) Samuel
 6) Carlos Henrique
 7) Antônio
+8) Luis Carlos
+9) Gustavo Nascimento
 
 # Documento de Requisitos
 
